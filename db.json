@@ -1,0 +1,95 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "智能人脸识别考勤机 0元购（多人、远距离、毫秒级精准辨别）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 2,
+      "title": "轻量应用服务器 限时75折（简单易用，1分钟搭建应用）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 3,
+      "title": "柠檬云免费套餐（40+核心云产品，6个月免费使用）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 4,
+      "title": "高性能云服务器 2折起（搭建应用/网站首选，送域名6折券）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 5,
+      "title": "马来西亚大区数据中心盛大开服（不限台数，不限配置）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 6,
+      "title": "移动测试 600款机型全线85折（测试智能化）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 7,
+      "title": "云解析DNS创业板（创业必选，解析快速）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 8,
+      "title": "云解析全局负载均衡（主备容灾切换、业务异地）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 9,
+      "title": "独享虚机0元试用（为建站用户量身打造的虚拟主机）",
+      "url": "http://www.baidu.com"
+    },
+    {
+      "id": 10,
+      "title": "WAF按量计费 低至4元/日（按需灵活升降配 每日推送账单）",
+      "url": "http://www.baidu.com"
+    }
+  ],
+  "login": {
+    "username": "小小柠檬",
+    "userId": 666
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "uw6kdfu"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "云服务器 ECS",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "轻量应用服务器",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "龙珠云服务器",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
